@@ -1,0 +1,23 @@
+{
+  "name": "packagemanager",
+  "version": "1.0.0",
+  "description": "En desarrollo",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d ./"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Maeno323/packageManager.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Maeno323/packageManager/issues"
+  },
+  "homepage": "https://github.com/Maeno323/packageManager#readme",
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
